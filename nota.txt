@@ -1,0 +1,6 @@
+El programa lo que hace simplemente es creear un usuario nuevo o loguearse si existe el usuario creado.
+la base de datos se llama php_login. En el directorio realice una exportacion desde phpMyadmin con el nombre users.sql donde tiene la structura de la tabla users, donde guardo la informacion.
+
+ Desde la url ejecutar localhost/login/   y iniciara el programa.
+
+
